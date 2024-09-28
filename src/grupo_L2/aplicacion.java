@@ -6,6 +6,9 @@ public class aplicacion {
 		// TODO Auto-generated method stub
 		System.out.println("Comienzo de practica");
 		System.out.println("Primer commit, rama master");
+		
+		System.out.println("Segundo commit, rama2");
+		
 
 
 	}
