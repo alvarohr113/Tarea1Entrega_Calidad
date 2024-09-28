@@ -16,6 +16,8 @@ public class aplicacion {
 		
 		System.out.println("Sexto commit, rama6");
 		
+		System.out.println("Septimo commit, rama6");
+		
 
 
 	}
